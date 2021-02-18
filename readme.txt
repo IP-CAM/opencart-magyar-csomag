@@ -1,9 +1,10 @@
-﻿Magyar csomag
+Hungarian package
 OC2PS www.csillamvilag.com
 
-Ez a csomag az Opencart bevásárló szoftver magyar nyelvű változata. 
+This package is the Hungarian version of the Opencart shopping software.
 
-A csomagot a csillamvilag.com ingyen biztosítja. Ha fizetett érte, javasouljuk, hogy igényelje vissza a pénzét.
+The package is provided free of charge by mica.com. If you paid for it, we suggest you claim your money back.
 
-Támogatás
+Aid
 http://forum.opencart.com/viewtopic.php?f=168&t=81712
+
